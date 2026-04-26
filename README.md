@@ -154,9 +154,7 @@ const yash: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdarji236&bg_color=282a36&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=false" width="95%" alt="activity graph" />
 
-<br/>
 
 </div>
 
