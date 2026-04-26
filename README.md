@@ -123,13 +123,7 @@ const yash: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" width="95%" alt="trophies" />
-</div>
-
----
 
 ## 🚀 What I'm Working On
 
@@ -142,14 +136,7 @@ const yash: Developer = {
 
 ---
 
-## 📈 Profile Views
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashdarji236&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yashdarji236?label=Followers&style=for-the-badge&color=0077B5" alt="followers" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
