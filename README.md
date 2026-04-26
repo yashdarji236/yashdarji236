@@ -32,46 +32,27 @@ const yash: Developer = {
 
 ---
 
-## 🛠️ Tech Stack
-
-<!-- Scrolling skills animation - Row 1 -->
+##🛠️ Tech Stack
 <div align="center">
-
-**Frontend & Styling**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,redux,nextjs&perline=9" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,mysql&perline=9" />
-
-**AI / Data Science**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=9" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="45" alt="kaggle" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux&perline=9" />
-
-**Design & 3D**
-
-<img src="https://skillicons.dev/icons?i=figma,blender&perline=9" />
-&nbsp;
-<img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square" height="45" alt="threejs" />
-
-**Other Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c&perline=9" />
-
-</div>
-
-<!-- Marquee scrolling skills strip -->
+Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,c&perline=10" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,redux&perline=10" />
+Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis&perline=10" />
+AI / Data Science
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle" />
+DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github&perline=10" />
+Design & 3D
+<img src="https://skillicons.dev/icons?i=figma,blender&perline=10" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="50" alt="threejs" />
+</div><!-- Marquee scrolling skills strip -->
 <div align="center">
 <br/>
 
