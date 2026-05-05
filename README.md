@@ -150,11 +150,9 @@ const yash: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdarji236&theme=dracula&hide_border=false" height="160" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=yashdarji236&theme=dracula&hide_border=false" height="160" alt="streak stats" />
 
 <br/><br/>
-
-
 
 </div>
 
