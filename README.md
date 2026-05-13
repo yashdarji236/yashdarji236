@@ -138,6 +138,21 @@ const yash: Developer = {
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" alt="trophy" />
+
+<br/>
+
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
