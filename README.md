@@ -2,7 +2,6 @@
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Darji&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Powered%20MERN%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -148,7 +147,7 @@ const yash: Developer = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" alt="trophy" />
+<img src="[https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1](https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1)" width="100%" alt="trophy" />
 
 <br/>
 
