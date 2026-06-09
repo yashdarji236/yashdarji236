@@ -147,7 +147,7 @@ const yash: Developer = {
 
 <br/>
 
-<img src="[https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1](https://github-profile-trophy.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1)" width="100%" alt="trophy" />
+<img src="https://github-trophies.vercel.app/?username=yashdarji236&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" alt="trophy" />
 
 <br/>
 
