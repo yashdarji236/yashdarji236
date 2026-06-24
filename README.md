@@ -7,7 +7,6 @@
 
 <div align="center">
 
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Real-World+Solutions+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Node.js+%7C+Python+%F0%9F%94%A5;Open+Source+Enthusiast+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
 
